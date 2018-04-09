@@ -1,0 +1,25 @@
+body
+{
+    background-color: black;
+}
+p
+{
+    color: black;
+}
+b
+{
+    color: black;
+}
+form
+{
+    color: black;
+}
+div
+{
+    margin-right: 35%;
+    padding: 1em;
+    border-radius: 10px;
+    background-color: lightgrey;
+    margin-top: 20%;
+    margin-left: 40%;
+}
